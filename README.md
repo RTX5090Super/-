@@ -39,7 +39,7 @@
   - script.js:游戏的逻辑和功能实现。
 
 ## 开发者
-  - @RTX5090
+  - [@RTX5090](https://github.com/RTX5090Super)
 
 ## 许可证
 本项目采用 GNU 通用公共许可证第 3.0 版。请查看 [LICENSE](https://github.com/RTX5090Super/-/blob/main/LICENSE) 文件以获取更多信息。
