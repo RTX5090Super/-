@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>吃豆人游戏</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>吃豆人游戏</h1>
+    <div id="gameContainer">
+        <div id="gameArea"></div>
+        <div id="scoreBoard">
+            <div>分数: <span id="score">0</span></div>
+            <div>当前关卡: <span id="level">1</span></div>
+        </div>
+    </div>
+    <div id="endGameModal" class="modal">
+        <div class="modal-content">
+            <h2>恭喜你，你已通关！</h2>
+            <button id="restartButton">重新开始</button>
+            <button id="exitButton">退出游戏</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
