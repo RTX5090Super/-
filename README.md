@@ -42,7 +42,7 @@
   - @RTX5090
 
 ## 许可证
-本项目采用 GNU 通用公共许可证第 3.0 版。请查看 LICENSE[https://github.com/RTX5090Super/-/blob/main/LICENSE] 文件以获取更多信息。
+本项目采用 GNU 通用公共许可证第 3.0 版。请查看 [LICENSE](https://github.com/RTX5090Super/-/blob/main/LICENSE) 文件以获取更多信息。
 
 ## 捐赠
 欢迎任何形式的贡献！如果您有建议或想法，请提交问题或拉取请求。
